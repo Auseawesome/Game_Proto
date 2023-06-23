@@ -1,1 +1,1 @@
-# Game_Proto
+# Game Prototype
