@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bc0tgajnspq6w"
-path="res://.godot/imported/t-shirt.png-6f866aeb374a203188aa8e1b016855b4.ctex"
+uid="uid://dmqejqg6xusji"
+path="res://.godot/imported/basic_chestplate.aseprite-71748d395f78b03301113ac4ca9bec10.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/armour/chestplate/t-shirt.png"
-dest_files=["res://.godot/imported/t-shirt.png-6f866aeb374a203188aa8e1b016855b4.ctex"]
+source_file="res://assets/armour/chestplate/basic_chestplate.aseprite"
+dest_files=["res://.godot/imported/basic_chestplate.aseprite-71748d395f78b03301113ac4ca9bec10.ctex"]
 
 [params]
 

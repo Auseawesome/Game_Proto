@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cga0evbj3bb7u"
-path="res://.godot/imported/basic_helmet.png-40346ec77ff6c4d690a24ff7a9b7cdc7.ctex"
+uid="uid://dsvjqsb02rfqc"
+path="res://.godot/imported/t-shirt.aseprite-62cdb8d1b7fb1de8012ac61c829ccaef.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/armour/helmet/basic_helmet.png"
-dest_files=["res://.godot/imported/basic_helmet.png-40346ec77ff6c4d690a24ff7a9b7cdc7.ctex"]
+source_file="res://assets/armour/chestplate/t-shirt.aseprite"
+dest_files=["res://.godot/imported/t-shirt.aseprite-62cdb8d1b7fb1de8012ac61c829ccaef.ctex"]
 
 [params]
 

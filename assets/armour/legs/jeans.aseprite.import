@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://blighsny1y57c"
-path="res://.godot/imported/jeans.png-31dcf37bd0dda572b80d26b34f9074ec.ctex"
+uid="uid://caqgvuxhwx7l8"
+path="res://.godot/imported/jeans.aseprite-1d4d75fd142209c7f10161d50fd73753.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/armour/legs/jeans.png"
-dest_files=["res://.godot/imported/jeans.png-31dcf37bd0dda572b80d26b34f9074ec.ctex"]
+source_file="res://assets/armour/legs/jeans.aseprite"
+dest_files=["res://.godot/imported/jeans.aseprite-1d4d75fd142209c7f10161d50fd73753.ctex"]
 
 [params]
 
